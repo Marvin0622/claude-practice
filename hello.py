@@ -8,3 +8,5 @@ def fibonacci(n):
 
 for i in range(10):
     print(fibonacci(i))
+print("学习完成！")
+    
